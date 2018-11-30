@@ -7,7 +7,6 @@ require('chai')
 
 contract('enerZ', accounts => {
    
-
     const _name = "enerZ";
     const _symbol = "ENZ";
     const _decimals = 18;
